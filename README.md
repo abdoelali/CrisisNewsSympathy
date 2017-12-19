@@ -2,6 +2,8 @@
 
 Supplementary material (datasets, queries, crowdworker instructions) for the CHI 2018 paper **"Measuring, Understanding, and Classifying News Media Sympathy on Twitter after Crisis Events"**
 
+*Preprint / DOI coming soon!*
+
 ___
 
 **A.chi2018_dataset.csv:** Our final annotated, multi-language (English, Arabic, French, German) dataset (N=2,390). Fields include:
