@@ -1,0 +1,243 @@
+"user_name","user_screen_name","user_description","country.query","follower_count","tweet_count","sentiment_mean","sentiment_sd","sympathy_mean","sympathy_sd"
+"مصراوي","Masrawy","أول وأكبر بوابة مصرية
+http://t.co/0kzBV5rE2v","Egypt_en",1184100,14,-0.214285714285714,0.801783725737273,0.857142857142857,0.534522483824849
+"اليوم السابع","youm7","الصفحة الرسمية لجريدة اليوم السابع علي تويتر ..الموقع الاخباري الاول في مصر والشرق الاوسط
+Follow @youm7 for latest stories and breaking news from #Egypt","Egypt_en",4536406,44,-0.159090909090909,0.93865767141247,0.818181818181818,0.581606726902305
+"Shorouk News","Shorouk_News","الشروق الجديد جريدة يومية مصرية مستقلة تأسست في فبراير 2009","Egypt_en",2914627,26,-0.192307692307692,0.938902796640026,0.846153846153846,0.543492976389406
+"شبكة رصد","RassdNewsN","People's Media | إعلامُ الجُمهور","Egypt_en",1993750,9,-0.333333333333333,0.866025403784439,0.555555555555556,0.881917103688197
+"المصري اليوم","AlMasryAlYoum","المصري اليوم، الصحيفة اليومية الأولى في مصر","Egypt_en",2260623,17,-0.352941176470588,0.861769724940212,0.764705882352941,0.664211164155071
+"بوابة الوطن","ElwatanNews","جريدة مصرية يومية مستقلة","Egypt_en",1730744,15,-0.266666666666667,0.79880863671798,0.6,0.828078671210825
+"اخبارك.نت","akhbarak","اخبار مصر و العالم من جميع المصادر الاخبارية ... https://t.co/B8SJFE43lP
+https://t.co/fDbnq5IQwi","Egypt_na",111724,7,-0.142857142857143,1.0690449676497,1,0
+"El Badil البديل","ElBadilNews","صحيفة مصرية","Egypt_en",325545,2,0,1.4142135623731,1,0
+"الجزيرة مباشر الآن","ajmurgent","Official Al Jazeera Mubahser News account آخر وأهم الأخبار تتابعونها عبر هذا الحساب","Egypt_en",552099,2,-1,0,0,1.4142135623731
+"Voice of Iraq","sotaliraqcom","Iraqi News & Opinion - صوت العراق","Iraq_en",8003,1,0,NA,-1,NA
+"Elnashra","ElnashraNews","Lebanon & Middle East news 24/7.","Lebanon_en",321838,13,-0.384615384615385,0.960768922830523,1,0
+"بوابة القاهرة","CairoNewsPortal","بوابة إخبارية تعمل على مدار24 ساعة تهتم بالشأن المصري والعربي وتقف على مسافة واحدة من الجميع لتقدم ما عجز عنه الآخرون تابعونا","Egypt_na",129975,8,-1,0,0.25,1.03509833901353
+"شبكة مصر الإخبارية","masralekhbaria","الحساب الرسمي لـ مصر الإخبارية","Egypt_na",256053,7,-0.571428571428571,0.786795792469443,0.714285714285714,0.755928946018454
+"Almogaz","Almogaz","الموجز هو موقع إخباري باللغة العربية يهتم بتغطية الأحداث المصرية والعربية والعالمية على مدار الساعة.","Egypt_en",115620,6,0.333333333333333,0.816496580927726,0.666666666666667,0.816496580927726
+"الأهرام Ahram","eahram","Al Ahram is an Egyptian publishing & Media house; it is the publisher of the daily Al-Ahram, in publication since 1875
+مؤسسة الأهرام للصحافة والنشر","Egypt_en",3649882,4,0.75,0.5,1,0
+"Cairo Live 24/7","Cairotoday","The official account of Cairo Live 24/7, #CairoLive provides the latest breaking news from Cairo Egypt from hundreds of sources, all in one place","Egypt_en",65380,8,-0.5,0.755928946018454,-0.25,1.03509833901353
+"جريدة الفجر","ElfagrNews","الحساب الرسمى لبوابة الفجر الالكترونية تصدر عن جريدة الفجر المصرية و يرأس تحريرها عادل حمودة","Egypt_en",505169,13,-0.230769230769231,0.926808695996298,0.692307692307692,0.751067616198811
+"أخبار المصري","Akhbar_almasry","أهم الأخبار من مصر الإخبارية","Egypt_na",11655,5,-0.6,0.547722557505166,0.2,1.09544511501033
+"التحرير الإخباري","Tahrir_News","الصفحة الرسمية لجريدة التحرير على موقع تويتر.","Egypt_en",2425437,1,0,NA,1,NA
+"KAMINDOZ","KAMINDOZ","#صحفي و #اعلامي من #العراق اهتم في #الاخبار #السياسية و #التقنية دعم #الجيش_العراقي و #الحشد_الشعبي
+#KAMINDOZ @KAMINDOZ #IRAQ
+https://t.co/xl47iUDBNZ #NEWS #IQ","Iraq_en",36520,17,-0.647058823529412,0.701888209634219,0.294117647058824,0.985184366143778
+"CNN بالعربية","cnnarabic","World Wide News Leader, in Arabic 
+https://t.co/U1V8ei6LDz  https://t.co/PhIonVHtAy","Egypt_en",5972264,4,-1,0,0,1.15470053837925
+"Future TV :: News","futuretvnews","Follow @Futuretvgroup  for Updates on our programs","Lebanon_en",180366,1,-1,NA,-1,NA
+"NBN Television","nbnlebanon","National Broadcasting Network - NBN, is a Lebanese private company, founded in 1996. NBN is aiming to become the first News and Thematic Station in Lebanon.","Lebanon_en",8895,1,-1,NA,-1,NA
+"CBC Egypt","CBC_EGY","قناة مصرية عامة تهدف إلى إعلام راقي يطرح ويناقش آراء جميع اطياف المجتمع المصري - بلا إنحياز سياسي أو ديني 
+ Nilesat 11488 Horizontal
+ نايل سات 11488 افقي","Egypt_en",2768098,4,-0.25,0.957427107756338,0.5,1
+"جريدة الأخبار","AlakhbarNews","The Official Twitter Account for Al-Akhbar Newspaper.                           الحساب الرسمي لصحيفة الأخبار
+https://t.co/fyDiHQFs2R","Lebanon_en",268635,9,0.111111111111111,0.781735959970572,0.333333333333333,1
+"Live961 Lebanon News","Live961","Live961 is an UNBIASED Live Lebanese News website, that provides news, in real time, from all sources and parties in Lebanon. 
+
+Live Lebanon News at its best.","Lebanon_en",6549,122,0,0.953462589245592,0.770491803278688,0.640078575314693
+"GHADI NEWS","GHADINEWS","Lebanon News - Ghadi News - Lebanon Environment - Lebanon Green -
+http://t.co/JiI6FVrTfD - Lebanon - GHADI","Lebanon_en",6567,5,0.6,0.894427190999916,1,0
+"Lebanese Headlines","LebHeadlines","#News aggregator allowing you to group & sort headlines according to your personalized interests - #Lebanon https://t.co/ZyICi0Bxwr","Lebanon_en",8585,17,-0.176470588235294,0.63593377383646,-0.647058823529412,0.785905247993376
+"tayyar.org","tayyar_org","http://t.co/NBjoIYKPNA is the leading news website in Lebanon and for the Lebanese around the world.","Lebanon_en",77423,2,0.5,0.707106781186548,0,1.4142135623731
+"Al Balad News","AlBaladNewsAR","See our news on http://t.co/zcy4a2gE & Stay up to date with the breaking news updates from AlBalad Newspaper, one of the leading newspapers in Lebanon","Lebanon_en",39725,1,0,NA,-1,NA
+"NBC News","NBCNews","A leading source of global news and information for more than 75 years. 
+ 
+Facebook: https://t.co/oeDi7xACU7 
+
+Snapchat: https://t.co/suOkoNb0KE","USA_en",3107087,19,-0.105263157894737,0.875261030404661,-0.368421052631579,0.955133865881839
+"The Local France","TheLocalFrance","What's happening in France? Read all about it in English with @TheLocalFrance. Ben McPartland (@McPBen) and Oliver Gee (@OliverGee23) are tweeting out the news.","France_en",9745,17,-0.411764705882353,0.618346942400842,-0.647058823529412,0.785905247993376
+"Daily Mail Online","MailOnline","Top stories from the Daily Mail. Follow @DailyMail for U.S. news and @DailyMailPics for photos. Facebook: http://t.co/jA8nz6NN5Z","UK_en",1536738,14,-0.357142857142857,0.744946343668492,-0.428571428571429,0.937614461876991
+"Sky News","SkyNews","Stories direct from the @SkyNews newsroom. Tweet us your queries and questions. For breaking news, follow @SkyNewsBreak.","UK_en",3022364,45,-0.355555555555556,0.645105895308372,-0.555555555555556,0.840874965182522
+"Yahoo UK News","YahooNewsUK","Breaking news, features, comment, pictures and video from the Yahoo News UK team. Find us on Facebook https://t.co/D6l6g6totS, Google+ and Pinterest","UK_en",39882,4,0,0.816496580927726,0,1.15470053837925
+"dwnews","dwnews","Your go-to account for everything DW. Tweeting our news feed + updates from editors and social media curators. http://t.co/Auk9kHTK3T #Germany","Germany_en",87538,37,-0.216216216216216,0.786523120206023,-0.513513513513513,0.86991767240168
+"DW | Germany","dw_germany","German news and information from DW, Germany's international broadcaster. http://t.co/BFefSFCgLN #Germany","Germany_en",21700,3,-0.666666666666667,0.577350269189626,-0.333333333333333,1.15470053837925
+"Report UK","ReportUK","Breaking, World, UK and Local News","UK_en",25240,44,-0.340909090909091,0.607824248549476,-0.772727272727273,0.642076441281101
+"CNN","CNN","It’s our job to #GoThere and tell the most difficult stories. Come with us!","USA_en",23754941,22,-0.636363636363636,0.492365963917331,-0.727272727272727,0.702500173314209
+"Reuters Top News","Reuters","Top and breaking news, pictures, and videos from Reuters.","USA_en",12052244,19,-0.315789473684211,0.749268649265355,-0.263157894736842,0.991189255566704
+"FRANCE 24 Breaking","BreakingF24","Get in real time the latest Breaking News from @FRANCE24 - Also available in French: @UrgentF24 and Arabic: @BreakingF24_ar","France_en",18273,3,-0.333333333333333,0.577350269189626,-1,0
+"Sky News Newsdesk","SkyNewsBreak","The latest breaking news, direct from the Sky News team. Tweet @skynews with any questions or queries.","UK_en",2011818,14,-0.571428571428571,0.513552591013095,-1,0
+"CBS News","CBSNews","The official twitter feed of @CBSNews. Follow for original reporting and trusted news.","USA_en",4338491,13,-0.307692307692308,0.751067616198811,-0.538461538461538,0.877058019307029
+"#NickMorgesom","BestPersonWho","live to the fullest. pray to jesus when you are going thought eough times","USA_en",19672,5,-0.4,0.547722557505166,-1,0
+"The New York Times","nytimes","Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more from http://t.co/YapuoqX0HS","USA_en",21292177,11,-0.363636363636364,0.674199862463242,-0.636363636363636,0.80903983495589
+"FrenchNews","FrenchNewsonlin","FrenchNewsOnline: an alive-in-France news magazine brimful of French flavour, in English. See event listings, subscribe to our newsletter, advertise with us.","France_en",4935,15,-0.6,0.632455532033676,-0.6,0.828078671210825
+"UK News","UK__News","Concise news and political updates.","UK_en",16260,3,-0.666666666666667,0.577350269189626,-0.333333333333333,1.15470053837925
+"Daily Mirror","DailyMirror","The official Daily Mirror & Mirror Online Twitter account - real news in real time. Also on Facebook http://t.co/HnRjiMtOF5 and at @MirrorFootball, @MirrorCeleb","UK_en",542295,43,-0.232558139534884,0.61090133652488,-0.488372093023256,0.882962896897653
+"Los Angeles Times","latimes","News from Los Angeles and the world. Staffed by http://t.co/zb8HyvYyAJ editors.","USA_en",1653251,4,0.5,0.577350269189626,0.5,1
+"ITV News","itvnews","Breaking news and the biggest stories from the UK and around the world. Bulletins weekdays at 1:30pm, 6:30pm and 10pm on ITV. Email yourstory@itv.com","UK_en",1306012,22,-0.0454545454545455,0.722249971716872,-0.181818181818182,1.00647255948039
+"NPR","NPR","News. Arts & Life. Music. Everything and more from NPR.","USA_en",5579841,3,0.333333333333333,1.15470053837925,0.333333333333333,1.15470053837925
+"Huffington Post","HuffingtonPost","internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans","USA_en",6845873,9,-0.333333333333333,0.866025403784439,-0.555555555555556,0.881917103688197
+"The Associated Press","AP","News from The Associated Press, and a taste of the great journalism produced by AP members and customers. Managed 24/7 by these editors: http://t.co/BibaTN49vB","USA_en",6121928,3,-0.666666666666667,0.577350269189626,-1,0
+"Fox News","FoxNews","America’s Strongest Primetime Lineup Anywhere! Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos.","USA_en",8544333,32,-0.21875,0.75067174218571,-0.625,0.793115538912532
+"USA NEWS","TheBestUsaNews","Top news of the United States of America","USA_en",8354,14,-0.285714285714286,0.611249845502127,-0.571428571428571,0.85163062725264
+"The Telegraph","Telegraph","The latest news, business, sport, comment, lifestyle and culture from the https://t.co/cJ9Ctg93KL team.","UK_en",1631442,18,-0.277777777777778,0.826442094733631,-0.333333333333333,0.970142500145332
+"FRANCE 24 English","France24_en","French international news channel (http://t.co/en6hSsteg1)","France_en",123546,34,-0.235294117647059,0.740958573634948,-0.470588235294118,0.895622151039798
+"US President News","President","Latest news on the current President of the United States of America (USA): Barack Obama. (unofficial)","USA_en",50424,5,0.2,0.447213595499958,-0.6,0.894427190999916
+"BBC News (UK)","BBCNews","News, features and analysis (http://t.co/FAlDvMMUEb).  World news, follow @BBCWorld. Breaking news, follow @BBCBreaking. Latest sport news @BBCSport","UK_en",6196021,6,0,0.894427190999916,-0.333333333333333,1.03279555898864
+"Metro","MetroUK","All the latest news from https://t.co/q3vvstTxm0. Follow us on Instagram: https://t.co/gOECMfzhJI","UK_en",226938,12,0.166666666666667,0.717740562565273,-0.5,0.904534033733291
+"Channel 4 News","Channel4News","Stories that reveal and inspire, challenging expectations. Watch our best video: https://t.co/VTHFBL5J3A","UK_en",1036451,12,0,0.852802865422442,0,1.04446593573419
+"Sinead Spain","sineadspain","Head of News at Today FM","Spain_en",5432,1,0,NA,-1,NA
+"Reuters UK","ReutersUK","Reuters UK editors. From pigeons to multimedia, Reuters has been delivering the news since 1851.","UK_en",68442,21,-0.428571428571429,0.597614304667197,-0.714285714285714,0.717137165600636
+"Arsenal News","Arsenal_NewsUK","","UK_en",10086,2,-0.5,0.707106781186548,-1,0
+"The Truth 24 UK","TheTruth24UK","Breaking, World, UK and Local News","UK_en",21118,38,-0.421052631578947,0.721544100555844,-0.631578947368421,0.785718904126383
+"USA TODAY News","usatodaynews","This account is an aggregated feed of USA TODAY news and headlines.","USA_en",9693,2,1,0,1,0
+"The Sun","TheSun","Britain's most popular paper. Exclusives, news, sport and entertainment. Like us on Facebook too: http://t.co/VsBj6xwmU8","UK_en",1060134,15,-0.133333333333333,0.743223352957207,-0.733333333333333,0.703731550548997
+"DW Sports","dw_sports","News and background stories from football and the world of sports, from Germany's international broadcaster. #dwbundesliga","Germany_en",29412,10,0,0.666666666666667,-0.2,1.03279555898864
+"IBTimes UK","IBTimesUK","The International Business Times UK. The world's fastest-growing news resource. Follow for news & special reports on business, geopolitics, technology & sport.","UK_en",20038,18,-0.444444444444444,0.615698763455199,-0.777777777777778,0.646761666763555
+"USA TODAY","USATODAY","The latest news and most interesting stories from USA TODAY. News that's meant to be shared.","USA_en",2112417,8,0,0.925820099772551,0.5,0.925820099772551
+"RT UK","RTUKnews","RT UK broadcasts from its studio in London. Watch LIVE UK news, documentaries and talk shows. Get even more on our website. Question more.","UK_en",38400,2,0,0,-1,0
+"Phil Bodmer","philbodmer","BBC Reporter/Presenter for Look North in Yorkshire & sometimes further afield for BBC UK News. A retweet is not an endorsement, personal views only not BBC's","UK_en",5998,1,0,NA,-1,NA
+"Arsenal News","ArsenalNewsUK","Tweeting the latest Arsenal News from a variety of sources. 
+
+If you have a blog and would like to be featured, use our contact form : http://t.co/QLFbYYuEpa","UK_en",93990,3,-0.666666666666667,0.577350269189626,-1,0
+"POLITICO","politico","Nobody knows politics like POLITICO.","USA_en",1288238,2,-0.5,0.707106781186548,-1,0
+"The Independent","Independent","News, comment and features from The Independent.","UK_en",1800693,14,-0.214285714285714,0.699293206753068,-0.142857142857143,1.02710518202619
+"The Spain Report","thespainreport","Original, independent reporting & editorial analysis to help you understand the most important news from Spain, in English. Edited by @matthewbennett.","Spain_en",8199,1,0,NA,-1,NA
+"Newsweek","Newsweek","Stay relevant.","USA_en",2721189,14,-0.285714285714286,0.611249845502127,-0.714285714285714,0.726273039202563
+"The Guardian","guardian","Top stories, special features, live blogs and more","UK_en",5286617,8,-0.5,0.534522483824849,0,1.0690449676497
+"Samy Mart","FootballSpain1","Vegan, Sociologist, Artist  #Art #VIP #Verified #News","Spain_en",6522,3,-0.333333333333333,1.15470053837925,-0.333333333333333,1.15470053837925
+"Matthew Bennett","matthewbennett","Editor of @thespainreport. Journalism, innovation, English, Spanish, Spain news and analysis, global stories, the business of news: matthew@thespainreport.com","Spain_en",6997,1,-1,NA,-1,NA
+"SPIEGEL ONLINE","SPIEGELONLINE","Die wichtigsten Nachrichten des Tages und die besten Geschichten von SPIEGEL ONLINE • Impressum: http://t.co/vp9WWTuwDH","Germany_na",1221267,22,-0.181818181818182,0.664498639244989,-0.272727272727273,0.984731927834662
+"Washington Post","washingtonpost","Tweet-length breaking news, analysis from around the world. Founded in 1877. Follow our journalists on Twitter: https://t.co/VV0UBAMHg8","USA_en",5239716,6,-0.5,0.836660026534076,-0.666666666666667,0.816496580927726
+"ABC News","ABC","See the whole picture with @ABC News. Join us on Facebook: https://t.co/ewMNZ54axm","USA_en",5511002,9,-0.555555555555556,0.726483157256779,-0.333333333333333,1
+"HuffPost UK","HuffPostUK","The destination for U.K. news, blogs and coverage of politics, entertainment, style, world news, technology and comedy...","UK_en",145203,8,-0.25,0.707106781186548,-0.5,0.925820099772551
+"The Local Spain","TheLocalSpain","Spain's news in English. https://t.co/ApHiUPJJIJ","Spain_en",5161,5,0,1,0.2,1.09544511501033
+"Horse Racing News","HorseRacingUK","Follow for the latest horse racing news on twitter from racingnews.uk. Also @cheltenhamtips for Cheltenham Festival. 19,000 followers and counting.","UK_en",19285,1,-1,NA,-1,NA
+"The Local Germany","TheLocalGermany","The latest news from Germany. Usually tweeting is editor @tombarfield. Find us on Facebook, too: https://t.co/cWnVnSZY3J","Germany_en",19125,3,-0.666666666666667,0.577350269189626,-1,0
+"TIME.com","TIME","Breaking news and current events from around the globe. Hosted by TIME staff. Tweet questions to our customer service team @TIMEmag_Service.","USA_en",8758321,5,-0.2,0.836660026534076,-0.2,1.09544511501033
+"Construction Index","TCIndex","UKs leading #Construction #News service. Latest industry news, breaking headlines. No subscription or registration pay wall. @TCindexFr @TCiTrader & @TCindexUSA","UK_en",59165,1,1,NA,1,NA
+"Le Monde","lemondefr","Bienvenue sur le compte officiel des rédactions du Monde | Piloté par @vengeurmask et @martelclem","France_na",5135594,6,-0.166666666666667,0.752772652709081,-0.333333333333333,1.03279555898864
+"Mashable UK","MashableUK","News, resources, inspiration and fun for the UK's connected generation.","UK_en",7310,2,0,1.4142135623731,0,1.4142135623731
+"Evening Standard","standardnews","Breaking news and updates on top London stories from the newsdesk of the @EveningStandard. Follow our other accounts at https://t.co/5nrRg0ZT","UK_en",314563,3,0,1,-0.333333333333333,1.15470053837925
+"Golan Shahar ®","GolanSh","The proud father of Maya. #Zionist, #Israeli, #Jew, Curious. #USA #News #History #Kurdistan #PoliticallyWrong
+Stay away from my Jew Gold! RT ≠ endorsement","USA_en",4950,3,0,1,-0.333333333333333,1.15470053837925
+"USA TODAY Sports","USATODAYsports","Latest Sports news and headlines from  http://t.co/DtJopCFgYx","USA_en",184396,1,-1,NA,1,NA
+"Bloomberg Business","business","The first word in business news.","USA_en",2735533,2,0.5,0.707106781186548,0,1.4142135623731
+"Uk News Depot","uknewsdepot","News from newspaper and online news around United Kingdom and around the world.  DETAIL STORY IN LINK IN TWEET.PLEASE SKIP ADS","UK_en",98557,3,0,1,-0.333333333333333,1.15470053837925
+"Telegraph News","TelegraphNews","Latest news from The Daily and Sunday Telegraph","UK_en",637442,4,-0.25,0.5,-0.5,1
+"Wall Street Journal","WSJ","Breaking news and features from the WSJ. Tweets by @allisonlichter @sarahmarshall @toddjolmstead @erinclarebrown @LaurenceWSJ @lmoliva_ and @carlazanoni.","USA_en",8204531,3,0.333333333333333,0.577350269189626,-0.333333333333333,1.15470053837925
+"Morning News USA","MorningNewsUSA","","USA_en",5297,7,0,1,-0.142857142857143,1.0690449676497
+"Press Association","PA","#Breaking news, developing stories from the UK’s national news and sport agency.","UK_en",36201,2,-0.5,0.707106781186548,-1,0
+"Euro 2016 fans","euro2016france_","Compte non-officiel pour Commenter l'#Euro2016. Actualité du football - top vidéo joueurs, matches, mercato, LDC, Equipe de France, meilleures images.","France_en",64790,5,0.4,0.547722557505166,0.2,1.09544511501033
+"FRANCE 24","FRANCE24","International News 24/7 in your language: @France24_fr - @France24_en - @France24_ar Contact us: https://t.co/ZaaXsh7FeN Mobile: https://t.co/gq0PUBNwJx","France_en",2151603,12,-0.5,0.674199862463242,-0.833333333333333,0.577350269189626
+"AFP Photo Department","AFPphoto","AFP Photo's official Twitter account. Tweeting news and features from Agence France-Presse's global photo network","France_en",56353,2,0,1.4142135623731,1,0
+"Frances Rivera","FrancesRivera","Anchor @MSNBC @RobertsMSNBC M-F 1-3pmET, embracing the cray life of breaking news, dueling kiddie dropoffs/pickups and an obsession with self/home accessorizing","France_en",10970,2,0,0,-1,0
+"Le Figaro","Le_Figaro","Actualités, économie, politique, culture et divertissements. Le Figaro, premier quotidien et premier site d'information généraliste en France.","France_na",1946303,56,-0.339285714285714,0.514402944791716,-0.5,0.873862897505303
+"GermanForeignOffice","GermanyDiplo","News from the German Foreign Office - Follow us in German as well @AuswaertigesAmt","Germany_en",75425,5,0.2,0.836660026534076,0.6,0.894427190999916
+"HuffPost UK Ent","HuffPostUKEnt","HuffPost UK Entertainment is jam-packed with the latest news and pictures from the world of TV, film, music, and celebrity. Conversations start here...","UK_en",30077,1,-1,NA,-1,NA
+"CNN Breaking News","cnnbrk","Breaking news from reporters and editors on the CNN Digital news team. Now 31M strong. Check @cnn for all things CNN, breaking and more.","USA_en",31396557,3,-0.333333333333333,0.577350269189626,-1,0
+"The Times of London","thetimes","News, comment and features from the Newspaper of the Year. Become a member at http://t.co/Kq4ItF8YYG Tweet @Times_CS for customer assistance","UK_en",603622,1,-1,NA,-1,NA
+"Air France","airfrance","#FranceisintheAir! Stay connected for our latest news! At your service 24/7 and 7/7 (Personal info by DM only)","France_en",197511,1,0,NA,-1,NA
+"New York Post","nypost","Breaking news & features from The New York Post, powered 24/7 by our Web team. Follow your favorite celebs at @PageSix & favorite teams at @nypostsports.","USA_en",860606,1,-1,NA,-1,NA
+"BurlingtonFreePress","bfp_news","Vermont headlines and breaking news from the Burlington Free Press. Updated by BFP newsroom staff. A Gannett company. https://t.co/2g5al56nqj","USA_en",29725,2,-1,0,-1,0
+"Engadget UK","EngadgetUK","UK-focused news and features from @Engadget. The definitive guide to this connected life.","UK_en",4901,1,0,NA,-1,NA
+"Daily Mail U.K.","DailyMailUK","Latest news from the UK Daily Mail team. Also on Facebook http://t.co/jA8nz6NN5Z. Follow @MailOnline for our top stories.","UK_en",112484,1,0,NA,1,NA
+"Khamal Ethan Georges","khamal","Senior Multimedia Journalist and News Anchor @ CNC3 Television, Freelance writer for AFP (Agence France Presse)
+VP Media Association of Trinidad & Tobago","France_en",9876,1,0,NA,-1,NA
+"Mirror Politics","MirrorPolitics","UK politics news and views from the @DailyMirror","UK_en",27669,3,0,0,-1,0
+"Agence France-Presse","afpfr","Morceaux choisis des fils d'actu, coulisses & RT des 1.575 journalistes de l'AFP à travers le monde. Ailleurs sur Twitter: http://t.co/4pIm8k2HLC","France_na",1781697,39,-0.205128205128205,0.469012803073321,-0.179487179487179,0.99662047022596
+"Dailymotion","DailymotionUSA","Tweeting daily news and entertainment videos. Send your dailymotion videos to social curators @_KamSteele & @DessyDGTL for a tweet! #LifeInVideo","USA_en",229291,2,-0.5,0.707106781186548,-1,0
+"MTV News UK","mtvuknews","Get the latest music, movie and showbiz stories, pics and exclusive videos from MTV News. Bulletins presented by @thewhitmore / @BeccaDudley / @BlueyRobinson","UK_en",49229,1,-1,NA,-1,NA
+"Guardian news","guardiannews","The latest stories from the @guardian's news desks.","UK_en",2293296,2,-0.5,0.707106781186548,0,1.4142135623731
+"Police News Group","PoliceNewsGroup","Global digital newspapers for Law Enforcement. Separate editions for Canada, Europe, USA, International, and LE Suppliers.","USA_en",5450,1,-1,NA,1,NA
+"Netherlands Embassy","NLintheUSA","We tweet news about Dutch interests in the USA; culture, innovation, economic ties and more. Also follow our Ambassador @henneschuwer. #digitaldiplomacy","USA_en",16042,1,0,NA,1,NA
+"Arab News","Arab_News","Saudi Arabia's leading English news brand. Provides Saudi and Middle East news. If you want to know what's happening in the Kingdom hit follow.","Saudi_en",71087,32,-0.59375,0.712078964450505,-0.3125,0.965117408869628
+"Rawya Rageh","RawyaRageh","Independent Journalist","Egypt_en",85532,28,-0.142857142857143,0.755928946018454,-0.571428571428571,0.835710894037345
+"Al Jazeera English","AJEnglish","Everyone has a story worth hearing. 
+Want breaking news alerts? @AJENews","Egypt_en",2970591,45,-0.244444444444444,0.802143592777717,-0.2,0.990867388613725
+"Iraq Solidarity News","iraqsolidarity","Based in #Manchester, #Iraq Solidarity #News (Al-Thawra) is the #UK's only #British-#Iraqi community news service. Subscribe to our #RSS http://t.co/BqD4YTy9c6","Iraq_en",8010,14,-0.357142857142857,0.497245158098847,-0.857142857142857,0.534522483824849
+"Zaid Benjamin","zaidbenjamin","Radio Sawa Washington Correspondent . News & Views Are My Own. Retweets Not Endorsement. زيد بنيامين","Iraq_en",133980,25,-0.28,0.678232998312527,-0.76,0.66332495807108
+"Al Arabiya English","AlArabiya_Eng","The English site of the Arab world's leading news channel, Al Arabiya News.","Egypt_en",654163,133,-0.330827067669173,0.704119959124543,-0.518796992481203,0.858129605943617
+"Egyptian Streets","EgyptianStreets","News, politics, interviews, travel reviews, and anything related to #Egypt. https://t.co/Ektyat5lcj Managed by @khairatmk","Egypt_en",15790,14,-0.357142857142857,0.633323693776651,-0.857142857142857,0.534522483824849
+"رمزAud","CodeAud","Propitious Autochthonous Intelligence with advocacy,theological extrapolation & dexterity : For wikitramps with profanity, asininity, skepticism & malapropism !","Iraq_en",6355,1,-1,NA,-1,NA
+"Gulf News","gulf_news","The official Twitter feed from Gulf News, the UAE's biggest selling English language newspaper.","UAE_en",424390,64,-0.375,0.654653670707977,-0.6875,0.7319250547114
+"Mada Masr مدى مصر","MadaMasr","صحافة مستقلة وحرة. تغطية اخبارية عميقة من داخل   مصر. نصل بك إلي ابعد مدي  Independent, free and critical news coverage of Egypt. The full scope.","Egypt_en",32748,2,-0.5,0.707106781186548,-1,0
+"BBC Breaking News","BBCBreaking","Breaking news alerts and updates from the BBC. For news, features, analysis follow @BBCWorld (international) or @BBCNews (UK). Latest sport news @BBCSport.","Egypt_en",21505792,44,-0.318181818181818,0.561258025176054,-0.681818181818182,0.739978858048936
+"Ahram Online","ahramonline","Ahram Online is the English-language news web site published by Al-Ahram Establishment, Egypt’s largest news organization.","Egypt_en",155173,66,-0.454545454545455,0.612229674897562,-0.757575757575758,0.657749217129167
+"UAE BARQ","UAE_BARQ_EN","Licensed by the National Media Council. SMS BARQE to 1110 at 4AED/week and keep posted with the latest breaking news. For more info please call 6005434443","UAE_en",23175,12,-0.166666666666667,0.834847109936722,-0.166666666666667,1.02985730108887
+"The Big Pharaoh","TheBigPharaoh","Egyptian blogger since 2004. Active on twitter and on my blog http://t.co/L8UesVzCvC. Retweets are NOT endorsement.","Egypt_en",68456,7,-0.571428571428571,0.534522483824849,-0.428571428571429,0.975900072948533
+"Daily News Egypt","DailyNewsEgypt","Egypt's Only Daily Independent Newspaper in English","Egypt_en",189207,11,-0.181818181818182,0.603022689155527,-0.272727272727273,1.00904995821903
+"Ikhwanweb","Ikhwanweb","Official Twitter of the Muslim Brotherhood. RT is endorsement.  @ikhwanwebAr الحساب العربي الرسمي","Egypt_en",143255,3,0.666666666666667,0.577350269189626,-0.333333333333333,1.15470053837925
+"Kataeb.org English","Kataeb_Eng","Official Twitter feed of http://t.co/LffOB7MHDj in English, bringing you coverage of the latest news in Lebanon and around the world.","Lebanon_en",7599,47,-0.276595744680851,0.649485671414545,-0.617021276595745,0.795454245107287
+"Deena","deenahsn","Translator/Interpreter.Bookish.Bipolar.Skilled backgammon player. Translating news on Egypt and the Middle East. Tweeting about books and translation.(Ar,En,Fr)","Egypt_en",5586,24,-0.375,0.710939366337732,-1,0
+"LBCI News English","LBCI_News_EN","Lebanon's news outlet. Official account of LBC News English. Leading source of online news for Lebanon, the Middle East and the world. http://t.co/yJBEqYmE","Lebanon_en",63266,74,-0.351351351351351,0.559658223307723,-0.675675675675676,0.742231144223292
+"7DAYSUAE","7DAYSUAE","Latest #news, views and images from #Dubai, #Abu #Dhabi and the rest of the #UAE.","UAE_en",139501,3,0.666666666666667,0.577350269189626,0.333333333333333,1.15470053837925
+"AJE News","AJENews","Follow @AJENews for the latest news, on-going coverage and unique perspectives from around the world. For more: @AJEnglish","Egypt_en",1002244,43,-0.209302325581395,0.638381119741242,-0.441860465116279,0.90770053750162
+"Zeinobia","Zeinobia","Egyptian Blogger / Journalist / Photographer. Just another talkative Egyptian  RT is not Endorsement. My views do not represent my employer","Egypt_en",213347,19,-0.526315789473684,0.611775290321498,-0.789473684210526,0.630603535284612
+"Mohamed ElBaradei","ElBaradei","","Egypt_en",4213776,1,0,NA,1,NA
+"Iraq Live Update","IraqLiveUpdate","Breaking News #Iraq #IQ","Iraq_en",11275,5,-0.6,0.547722557505166,-1,0
+"Bel Trew - بل ترو","Beltrew","Middle East reporter for The Times, The Sunday Times. Views my own, retweets not endorsements. Email bel.trew@thetimes.co.uk Pics: https://t.co/siGFVdcZAi","Egypt_en",86703,5,-0.6,0.547722557505166,-0.6,0.894427190999916
+"tabloid!","GulfNewsTabloid","The No. 1 source for entertainment, lifestyle & fashion in the UAE published by @Gulf_News. News from Hollywood, Bollywood, Arabia, the Philippines and beyond.","UAE_en",16309,2,1,0,0,1.4142135623731
+"Egypt Independent","EgyIndependent","Your source for news on Egypt","Egypt_en",426977,3,-1,0,-0.333333333333333,1.15470053837925
+"Lebanon Spring Blog","Lebanonspring","Lebanese political blog. Tweet here feeds from my blog, & news in English. Plz follow @TheZako & my blog for commentary, rather than automated news only!","Lebanon_en",13765,4,-0.5,0.577350269189626,-0.5,1
+"Rudaw English","RudawEnglish","The leading news source on Kurds and Kurdish affairs, in English.","Iraq_en",118908,10,-0.2,0.632455532033676,-0.8,0.632455532033676
+"Mona Eltahawy","monaeltahawy","Author Headscarves & Hymens http://t.co/T7oJnaGaVA. Feminist writer/public speaker: Arab & Muslim issues, global feminism. NYT opinion columnist. Tattoos. #MUFC","Egypt_en",230106,2,0.5,0.707106781186548,0,1.4142135623731
+"Ayman Mohyeldin","AymanM","Ayman is a Foreign Correspondent for NBC News and Anchor for MSNBC. More on Instagram @AymanM. Tweets and RTs are not endorsements.","Egypt_en",138467,5,-0.8,0.447213595499958,-1,0
+"Slemani Times","SlemaniTimes","Slemani Times is an independent English language news publication, covering the Kurdistan Region, Iraq, and the Middle East, providing the latest news.","Iraq_en",6343,2,-0.5,0.707106781186548,0,1.4142135623731
+"The Daily Star","DailyStarLeb","Lebanon's leading English-language newspaper brings you breaking news and in-depth analysis on local, Middle East, and international affairs","Lebanon_en",38854,36,-0.416666666666667,0.649175301000101,-0.722222222222222,0.701472374412202
+"SRK EGYPT FAN CLUB ™","SRKEGYPTFC","From Egypt to the world 
+Covering all Events, Films, related to @iamsrk in Egypt + News ,updates around the clock with professional team work ll Eng. - Arabic","Egypt_en",39017,1,0,NA,-1,NA
+"Emirates 24|7","Emirates247","http://t.co/Mh2d4CefK3 is a vibrant and dynamic online news website that provides first-rate news about the UAE that you can use.","UAE_en",214502,13,-0.307692307692308,0.751067616198811,-0.538461538461538,0.877058019307029
+"Dalal Mawad","dalalmawad","Journalist.Currently Video Producer for UNHCR @refugees -formerly with @LBCI_News @AJEnglish @NYTimes.Proud @Columbia, LSE & AUB alumni.Tweets are mine.","Lebanon_en",4923,2,0.5,0.707106781186548,0,1.4142135623731
+"Beirut-Reporter","beirutreporter","Short News and Estimation about Lebanon and the Middle East http://t.co/EItSrZKznP","Lebanon_en",7484,20,-0.3,0.571240570577479,-0.9,0.447213595499958
+"WPMT FOX43","fox43","Central Pennsylvania's best reports on local NEWS in York, Harrisburg, Lancaster, and Lebanon.","Lebanon_en",30963,1,-1,NA,-1,NA
+"Maen Aloquili","Aloquili","Proud Jordanian. Deputy Communication Assistant @IOM_News Jordan .listed as One's to Watch Ambassador @LinkedinUK.First Line Manager @CMI_Managers.","Jordan_en",5789,1,1,NA,1,NA
+"MTV Lebanon News","MTVLebanonNews","... and will always be the voice of freedom ...
+Follow @MTVLebanon for Updates on our programs.","Lebanon_en",528707,2,-0.5,0.707106781186548,-1,0
+"Kovan Direj","kovandire","When&Where News #MENA #Syria #Iraq #turkey #iran #Kurdistan Last update,Analyses it.I follow #Kurdi #English  #svenska #arabic media ROJAVA","Iraq_en",14245,2,-0.5,0.707106781186548,-1,0
+"The National","TheNationalUAE","The official Twitter feed of The National, the UAE's premier news source, with top stories, special features and more.","UAE_en",620528,4,-0.5,1,-0.5,1
+"US Embassy Cairo","USEmbassyCairo","Also visit us on Facebook at https://t.co/Z9GvNSpv7Q
+RTs not endorsements","Egypt_en",90726,2,0,1.4142135623731,0,1.4142135623731
+"Naharnet","Naharnet","Lebanon's Leading News Portal","Lebanon_en",69543,38,-0.210526315789474,0.62202349555181,-0.736842105263158,0.685139974900209
+"UAE News","UAENews","One stop for major UAE News feeds.","UAE_en",127082,2,0,1.4142135623731,0,1.4142135623731
+"Ya Libnan News","Ya_Libnan","Lebanon News and World News Live from Beirut","Lebanon_en",29330,12,-0.583333333333333,0.668557923421521,-0.833333333333333,0.577350269189626
+"Jon Donnison","jondonnisonbbc","BBC Australia Correspondent. Based in Sydney covering Oz and the region. Emmy nominated. Formerly in Gaza, West Bank, DC, Egypt. Sheffield boy. Cyclist.","Egypt_en",21731,2,0.5,0.707106781186548,0,1.4142135623731
+"benwedeman","bencnn","The news is the star. An archaic concept perhaps but If you think you're more important than the story, you've lost the plot. (FYI retweets NOT endorsements).","Egypt_en",128242,1,-1,NA,1,NA
+"Hossam عمو حسام","3arabawy","In a dictatorship independent journalism by default becomes a form of activism, and the spread of information is essentially an act of agitation. #Jan25","Egypt_en",236129,1,1,NA,1,NA
+"سلطان سعود القاسمي","SultanAlQassemi","Columnist, art enthusiast.","Egypt_en",388332,1,0,NA,-1,NA
+"Peto Lucem","PetoLucem","News - maps - analysis. Currently focused on military developments in Syria and Iraq. RT/links/follow ≠ endorsement.
+
+VERITAS VOS LIBERABIT","Iraq_en",12423,2,-0.5,0.707106781186548,0,1.4142135623731
+"The IQD Team Connect","TheIQDTeam","Discussion/Analysis of the Latest Iraq, Dinar & RV News
+Pre & Post RV Info Q&A to Follow - 
+Tues, Thur  8PM EST
+760-569-7676 Pin: 769478# or 712222#","Iraq_en",4655,1,0,NA,-1,NA
+"W.G. Dunlop","wgdunlop","Deputy Iraq Bureau Chief for the @AFP news wire. All views here my own. Tweet/RT/MT/follow ≠ endorsement.
+| william.dunlop@afp.com","Iraq_en",9892,1,0,NA,-1,NA
+"NRT English","NRT_English","Your #1 source for independent news from the Kurdistan Region of Iraq (KRI)","Iraq_en",4473,1,-1,NA,-1,NA
+"Jordan News Agency","Petranews","Daily updated news report on Jordan and on international events from the official Jordanian news agency.","Jordan_en",11026,3,-0.333333333333333,0.577350269189626,-1,0
+"Royal Jordanian","RoyalJordanian","Welcome to the official Twitter channel of Royal Jordanian, your instant source of news, updates and information about Jordan’s National Carrier.","Jordan_en",171780,1,0,NA,-1,NA
+"Lebanon Daily News","LDNews","The Lebanon Daily News is your source for local news, sports and entertainment in Lebanon County, PA. Check us out on http://t.co/dtb1bhyGVf.","Lebanon_en",8357,10,-0.4,0.699205898780101,-0.8,0.632455532033676
+"Lebanon News","lebanonnews","Breaking news from Lebanon and the Middle East.","Lebanon_en",79425,1,0,NA,-1,NA
+"NOW English","NOW_eng","The Official NOW Twitter Page.
+NOW is the online source for news, features, analysis and much more, covering Lebanon, the Lebanese diaspora and the Middle East","Lebanon_en",36900,10,-0.4,0.516397779494322,-0.8,0.632455532033676
+"AUB","AUB_Lebanon","The official Twitter account of the American University of Beirut (#AUB). Follow for campus wide news & events. (Personal info by DM only)","Lebanon_en",55287,3,-0.333333333333333,1.15470053837925,0.333333333333333,1.15470053837925
+"Dubai Informer","Dubaiinformer","Local Dubai News and UAE updates from A - Z, that's what you get from us.","UAE_en",114022,4,-0.25,0.5,-0.5,1
+"Selena Gomez","SeIGomezUK","Official twitter account for Selena Gomez in the UK. Follow for news, photos and videos.","UK_en",18099,1,-1,NA,-1,NA
+"The Economist","TheEconomist","News and analysis with a global perspective. Follow for article updates, events and news from The Economist. To subscribe go to: http://t.co/BuPrEvPiya","UK_en",11277360,1,1,NA,-1,NA
+"Indie Creativity","Indie_Success","Promoting #art #authors #artists #music #etsy #bands #newsong, news & events from USA & around the world  ♫  #Creativity #Djs #indiemusic  #creativity #books","USA_en",56874,1,-1,NA,-1,NA
+"Sexenio USA","SexenioUSA","Mexico's favorite news site, now in the US!","USA_en",211467,1,-1,NA,-1,NA
+"BILD","BILD","Hier twittern die BILD-Redaktion in Berlin und die Reporter aus aller Welt · Snapchat: hellobild · Impressum: https://t.co/QmyG5OkSeF","Germany_na",1181727,23,-0.260869565217391,0.619192384874173,-0.652173913043478,0.77510677576318
+"stern","sternde","Nachrichten des Tages in 140 Zeichen von https://t.co/DdphyPeII8","Germany_na",898948,16,0,0.632455532033676,-0.625,0.806225774829855
+"ZDF","ZDF","Neuigkeiten rund um das ZDF | Impressum: http://t.co/TrR643dDxM","Germany_na",839090,11,-0.181818181818182,0.750757193529548,-0.454545454545455,0.934198732993827
+"Der Tagesspiegel","tagesspiegel","Leitmedium der Hauptstadt.","Germany_na",223887,34,-0.441176470588235,0.612554337507528,-0.352941176470588,0.949716159867634
+"tagesschau","tagesschau","Die Nachrichten der ARD","Germany_na",1055259,28,-0.285714285714286,0.534522483824849,-0.642857142857143,0.78004205557496
+"ZEIT ONLINE","zeitonline","Ja, das ist unser offizieller Twitter-Account. Wenn nicht der Newsdesk (nd) twittert, finden Sie hier die handelnden Personen: http://t.co/Cah6kegJeJ","Germany_na",1092948,14,-0.285714285714286,0.468807230938495,-0.714285714285714,0.726273039202563
+"Nachrichten DE【ツ】","News_Germany","Nachrichten aus Deutschland - die schnelle Twitter Übersicht für News aus Deutschland - folge uns","Germany_en",8428,2,-1,0,-1,0
+"WirtschaftsWoche","wiwo","Das führende deutsche Wirtschaftsmagazin. News über Politik, Unternehmen, Börse und Finanzen, Job und Erfolg. • https://t.co/izbdb27mBH","Germany_na",170822,3,0.333333333333333,0.577350269189626,-0.333333333333333,1.15470053837925
+"FAZ.NET","faznet","Die wichtigsten Nachrichten des Tages, die besten Artikel von http://t.co/NRamiHGtwS und Lese-Empfehlungen der Redaktion. Impressum: http://t.co/P5S9CMxGyE","Germany_na",293029,17,-0.411764705882353,0.618346942400842,-0.647058823529412,0.785905247993376
+"dpa","dpa","Die Deutsche Presse-Agentur twittert: Froben Homburger(fho) Iris Mayer(ima) Jens Dudziak(jed) Thomas Pfaffe(tpf) Süleyman Artiisik(art) Daniel Mollitor(dmo)","Germany_na",120860,5,-0.4,0.547722557505166,-0.2,1.09544511501033
+"Süddeutsche Zeitung","SZ","Der offizielle Twitter-Account der Süddeutschen Zeitung. Alle Redakteure und Kanäle: http://t.co/AjR51c6fBJ · Impressum: http://t.co/73f0c1DSzV","Germany_na",776637,1,0,NA,-1,NA
+"1D Updates Germany","German1DTeam","Deutsche Seite über One Direction mit News und Fanprojekten. | Kontakt: German1DTeam@gmail.com","Germany_en",26190,1,0,NA,-1,NA
+"Handelsblatt Online","handelsblatt","Hier twittert das Handelsblatt-Team ausgewählte News. Dazu erhalten Sie Exklusiv- und Eilmeldungen als Newsfeed. Impressum: http://t.co/fwlvy5pH","Germany_na",234547,2,-0.5,0.707106781186548,-1,0
+"taz","tazgezwitscher","tazgezwitscher ist das Twitterangebot der taz.die tageszeitung, ermöglicht von über 15.000 GenossInnen.  Alle Schlagzeilen von taz.de unter @taz_news","Germany_na",419947,6,-0.5,0.547722557505166,-0.666666666666667,0.816496580927726
+"SZ Top-News","SZ_TopNews","Alle Top-Themen von Süddeutsche.de
+
+Impressum: http://t.co/Jh8GYzR1nn","Germany_na",176619,1,-1,NA,-1,NA
+"Yahoo Actualités","YahooActuFR","Twitter Officiel de Yahoo Actualités : toute l'actualité en France et dans le monde.","France_en",62846,10,-0.3,0.674948557710553,-0.8,0.632455532033676
+"Libération","libe","Bienvenue sur le fil Twitter officiel du journal Libération.","France_na",1627686,3,-0.666666666666667,0.577350269189626,-1,0
+"L'Obs","lobs","L'Obs, le média nouvelle génération engagé. Compte animé par @antoinepatinet & @TomMery. Suivez-nous aussi sur Facebook https://t.co/War3MauIpk","France_na",977969,13,-0.230769230769231,0.725011052081984,-0.230769230769231,1.01273936708367
+"Daily España","noticiasEspania","La realidad de #España: #política, #economía, #deporte, #mundo, #cultura, #sociedad, #tecnología, #ciencia, #cine, #ocio y más. También en @deportespania","Spain_na",9997,1,0,NA,-1,NA
+"PLL France","LittleLiarsFR","French source account of Pretty Little Liars. You can find the latest news, spoilers, theories and more in our favorites. Justine, Zoé, Thomas and Anaïs","France_en",38462,1,1,NA,1,NA
+"Anderson Cooper","andersoncooper","Personal tweets by Anderson Cooper. Anchor of @AC360, weeknights at 8p/ET on CNN and correspondent for @60Minutes on CBS","USA_en",6532806,1,1,NA,1,NA
