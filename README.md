@@ -4,8 +4,37 @@ Supplementary material (datasets, queries, crowdworker instructions) for the CHI
 
 *Preprint / DOI coming soon!*
 
+
+The dataset is free for academic use. We kindly ask that you do not reveal the identity of users publicly (by hydrating tweet IDs). In addition, it would be interesting for us to follow up with related research, so please drop us a note at `abdallah[dot]elali[at]gmail[dot]com`. 
+
+**Please cite our paper in any published work that uses any of these resources.**
+
+BiBTeX:
+```
+@inproceedings{Elali2018,
+  title = {Measuring, Understanding, and Classifying News Media Sympathy on Twitter after Crisis Events},
+  author = {Abdallah El Ali and Tim C Stratmann and Souneil Park and Johannes Sch{\"o}ning and Wilko Heuten and Susanne CJ Boll}, 
+  booktitle = {Proceedings of the International Conference on Human Factors in Computing Systems 2018},
+  series = {CHI '18},
+  year = {2018},
+  location = {Montreal, Canada},
+  pages = {#-#},
+  url = {https://doi.org/10.1145/3173574.3174130}
+  }
+  ```
+  
+ACM Ref Citation:
+```
+El Ali, A., Stratmann, T., Park, S., Schöning, J., Heuten, W. & Boll, S. (2018). Measuring, Understanding, and Classifying News Media Sympathy on Twitter after Crisis Events. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, #-#. DOI: https://doi.org/10.1145/3173574.3174130
+```
+ 
+&nbsp;
+&nbsp;   
 ___
 
+&nbsp;
+
+&nbsp;
 **A.chi2018_dataset.csv:** Our final annotated, multi-language (English, Arabic, French, German) dataset (N=2,390). Fields include:
 
 ```
@@ -22,7 +51,12 @@ ___
  $ sympathy_conf  : num  : confidence of sentiment label
  ```
 
+&nbsp;
+
 **B.chi2018_news_queries.pdf** : Contains a table that shows: (1) full set of queries (in English and native language) used to crawl Twitter user accounts (2) the total number of Twitter news accounts found (3) the amount and percentage found in each dataset (Beirut, Paris).
+
+
+&nbsp;
 
 **C.chi2018_news_org_summary.csv** : The final list of unique crawled news organizations (N=208). For ethical concerns, we only show the name, user name, the country / query used to retrieve the account, the follower count at the time of crawling, the number of tweets, and our mean and standard deviation scores of crowdsourced labels.
 
@@ -38,4 +72,7 @@ ___
  $ sympathy_mean    : num  : Mean sympathy score for all tweets by this account
  $ sympathy_sd      : num  : Standard deviation of sympathyscore for all tweets by this account
 ```
+
+&nbsp;
+
 **D.chi2018_cf_instructions.pdf:** Crowdsourcing annotation task instructions given to crowdworkers. Translated from English by native (bilingual) speakers into French, Arabic, and German.
