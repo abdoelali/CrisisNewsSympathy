@@ -7,6 +7,8 @@ Supplementary material (datasets, queries, crowdworker instructions) for the CHI
 
 The dataset is free for academic use. We kindly ask that you do not reveal the identity of users publicly (by hydrating tweet IDs). In addition, it would be interesting for us to follow up with related research, so please drop us a note at `abdallah[dot]elali[at]gmail[dot]com`. 
 
+&nbsp;
+
 **Please cite our paper in any published work that uses any of these resources.**
 
 BiBTeX:
@@ -24,9 +26,8 @@ BiBTeX:
   ```
   
 ACM Ref Citation:
-```
-El Ali, A., Stratmann, T., Park, S., Schöning, J., Heuten, W. & Boll, S. (2018). Measuring, Understanding, and Classifying News Media Sympathy on Twitter after Crisis Events. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, #-#. DOI: https://doi.org/10.1145/3173574.3174130
-```
+
+*El Ali, A., Stratmann, T., Park, S., Schöning, J., Heuten, W. & Boll, S. (2018). Measuring, Understanding, and Classifying News Media Sympathy on Twitter after Crisis Events. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, #-#. DOI: https://doi.org/10.1145/3173574.3174130*
  
 &nbsp;
 &nbsp;   
