@@ -35,7 +35,7 @@ ___
 
 &nbsp;
 
-&nbsp;
+
 **A.chi2018_dataset.csv:** Our final annotated, multi-language (English, Arabic, French, German) dataset (N=2,390). Fields include:
 
 ```
