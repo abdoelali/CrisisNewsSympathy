@@ -2,7 +2,7 @@
 
 Supplementary material (datasets, queries, crowdworker instructions) for the CHI 2018 paper **"Measuring, Understanding, and Classifying News Media Sympathy on Twitter after Crisis Events"**
 
-*Preprint / DOI coming soon!*
+Preprint: <https://arxiv.org/abs/1801.05802>
 
 
 The dataset is free for academic use. We kindly ask that you do not reveal the identity of users publicly (by hydrating tweet IDs). In addition, it would be interesting for us to follow up with related research, so please drop us a note at `abdallah[dot]elali[at]gmail[dot]com`. 
