@@ -65,7 +65,7 @@ ___
  $ user_name        : char : Twitter user name
  $ user_screen_name : char : Twitter user screen name
  $ user_description : char : Twitter user description
- $ country/query    : char : country and query used to retrieve this ('_en' denotes English, and 'na_' denotes native language)
+ $ country/query    : char : country and query used to retrieve this ('_en' denotes English, and '_na' denotes native language)
  $ follower_count   : num  : User follower count
  $ tweet_count      : num  : Number of tweets tweeted by this account
  $ sentiment_mean   : num  : Mean sentiment score for all tweets by this account
